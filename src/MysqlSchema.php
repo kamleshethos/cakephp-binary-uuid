@@ -1,6 +1,6 @@
 <?php
 
-namespace Adduc\Cake\BinaryUuid;
+namespace Eforce\Cake\BinaryUuid;
 
 class MysqlSchema extends \Cake\Database\Schema\MysqlSchema
 {

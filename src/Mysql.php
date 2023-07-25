@@ -1,6 +1,6 @@
 <?php
 
-namespace Adduc\Cake\BinaryUuid;
+namespace Eforce\Cake\BinaryUuid;
 
 class Mysql extends \Cake\Database\Driver\Mysql
 {
